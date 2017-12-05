@@ -25,7 +25,7 @@ ul, h1 {
 html {	font-size: 18px; }
 
 body {
-	background: url(../img/strip-bg.jpg);
+	background: url(strip-bg.jpg);
 	color: rgba(255,255,255,0.95);	
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	padding-left: 60px;
@@ -157,12 +157,12 @@ p:last-child { margin-bottom: 0; }
 }
 
 
-#tm-section-1 {	background-image: url(../img/strip-bg-01.jpg); }
-#tm-section-2 {	background-image: url(../img/strip-bg-02.jpg); }
-#tm-section-3 {	background-image: url(../img/strip-bg-03.jpg); }
-#tm-section-4 {	background-image: url(../img/strip-bg-04.jpg); }
+#tm-section-1 {	background-image: url(strip-bg-01.jpg); }
+#tm-section-2 {	background-image: url(strip-bg-02.jpg); }
+#tm-section-3 {	background-image: url(strip-bg-03.jpg); }
+#tm-section-4 {	background-image: url(strip-bg-04.jpg); }
 .tm-footer { 
-	background-image: url(../img/strip-bg-05.jpg);
+	background-image: url(strip-bg-05.jpg);
 	font-weight: 300;
 	display: -webkit-flex; 
 	display: -ms-flexbox; 
